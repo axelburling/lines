@@ -23,7 +23,7 @@ brews:
     homepage: "https://github.com/axelburling/lines"
     tap:
       owner: axelburling
-      name: homebrew-axelburling
+      name: homebrew-lines
     commit_author:
       name: axelburling
       email: axel.burling@gmail.com
